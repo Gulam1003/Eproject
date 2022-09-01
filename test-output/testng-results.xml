@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-02T00:55:15 IST" name="Eproject" finished-at="2022-09-02T00:55:53 IST" duration-ms="38034">
+    <groups>
+    </groups>
+    <test started-at="2022-09-02T00:55:15 IST" name="Test2" finished-at="2022-09-02T00:55:53 IST" duration-ms="38034">
+      <class name="com.eproject.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.eproject.testCases.TC_LoginTest_001@206a70ef]" started-at="2022-09-02T00:55:16 IST" name="setup" finished-at="2022-09-02T00:55:35 IST" duration-ms="18873" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.eproject.testCases.TC_LoginTest_001@206a70ef]" started-at="2022-09-02T00:55:35 IST" name="loginTest" finished-at="2022-09-02T00:55:53 IST" duration-ms="17931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.eproject.testCases.TC_LoginTest_001@206a70ef]" started-at="2022-09-02T00:55:53 IST" name="tearDown" finished-at="2022-09-02T00:55:53 IST" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eproject.testCases.TC_LoginTest_001 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Eproject -->
+</testng-results>
