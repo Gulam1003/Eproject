@@ -1,0 +1,7 @@
+com\eproject\utilities\ReadConfig.class
+com\eproject\pageObjects\LoginPage.class
+com\eproject\utilities\Reporting.class
+com\eproject\utilities\XLUtils.class
+com\eproject\testCases\TC_LoginDDT_002.class
+com\eproject\testCases\TC_LoginTest_001.class
+com\eproject\testCases\BaseClass.class

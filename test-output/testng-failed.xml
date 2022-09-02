@@ -14,13 +14,6 @@
           <include name="loginTest"/>
         </methods>
       </class> <!-- com.eproject.testCases.TC_LoginTest_001 -->
-      <class name="com.eproject.testCases.TC_LoginDDT_002">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="loginTestD" invocation-numbers="0 2"/>
-        </methods>
-      </class> <!-- com.eproject.testCases.TC_LoginDDT_002 -->
     </classes>
   </test> <!-- Test2(failed) -->
 </suite> <!-- Failed suite [Eproject] -->
